@@ -7,7 +7,7 @@ const count = ref(0);
 </script>
 
 <template>
-  <h1>Test 3</h1>
+  <h1>Test 4</h1>
   <h1>{{ msg }}</h1>
 
   <div class="card">
